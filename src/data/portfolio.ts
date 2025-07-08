@@ -4,7 +4,7 @@ export const personalInfo: PersonalInfo = {
   name: "DANGELO",
   title: "Estudiante de Ingeniería de Sistemas",
   description: "Apasionado por la tecnología y el desarrollo de software. Especializado en desarrollo web full-stack con experiencia en React, Node.js y bases de datos. Siempre buscando nuevos desafíos y oportunidades para crecer profesionalmente.",
-  image: "/public/folder/b0/a4/c2/b0a4c26777707c9e3121e735faa3b71c.jpg",
+  image: "/me.jpg",
   resume: "/resume.pdf",
   contact: {
     email: "dangeloleon75@gmail.com",
